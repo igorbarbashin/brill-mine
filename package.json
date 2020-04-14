@@ -1,0 +1,26 @@
+{
+  "name": "brill-mine",
+  "version": "1.0.0",
+  "description": "Mine smart contract for BRILL",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^2.5.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/igorbarbashin/brill-mine.git"
+  },
+  "author": "Igor Barbashin",
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://github.com/igorbarbashin/brill-mine/issues"
+  },
+  "homepage": "https://github.com/igorbarbashin/brill-mine#readme"
+}
